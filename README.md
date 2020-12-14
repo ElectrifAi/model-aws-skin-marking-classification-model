@@ -8,3 +8,4 @@ To help identify skin mutations to support clinical decisions and diagnosis.
 
 SKU: SKINC-PS-HLC-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-3gg6igatwchxs
